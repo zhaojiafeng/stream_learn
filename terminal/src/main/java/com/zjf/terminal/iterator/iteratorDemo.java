@@ -3,7 +3,7 @@ package com.zjf.terminal.iterator;
 import java.util.stream.Stream;
 
 /*
-
+ * treamList = demoList.stream().map(demo -> demo.getIndex()).collect(Collectors.toList());
  */
 public class iteratorDemo {
 
